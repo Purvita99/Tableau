@@ -1,6 +1,6 @@
 # Tableau
 Collaborators:
-Atrayee Dutta Chowdhury
-Raka Sen
-Raktima Dey
-Purvita Mandal
+1) Atrayee Dutta Chowdhury
+2) Raka Sen
+3) Raktima Dey
+4) Purvita Mandal
